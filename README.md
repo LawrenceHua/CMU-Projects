@@ -15,21 +15,23 @@ Distributed Systems
 
 Digital Transformation
 - Final Presention
-	- Understanding Google Vs. Baidu in China's internet landscape.
+	- Market analysis and recommendations to enter a winner takes all market. 
 	
 New Product management
 - Team Presentation on Netflix A/B Testing
 - Feature proposal on Microsoft Copilot
 
 Machine Learning Algorithms
-- 
--
--
--
--
+- Decision Tree
+- Linear Regression
+- Majority Vote
+- Q Learning
 
 Summer 2024:
-
+Cryptocurrency Researcher
+	- Creating new cryptocurrency in the gaming industry
+	- Skills: Market Research, cryptocurrency creation, crypto market retention recommendations.
 
 Fall 2024
+TBD
 
