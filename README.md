@@ -52,7 +52,7 @@ Machine Learning Production
 - Instagram Clone with Computer vision
 
 Lean Entrepreneurship
-- Startup idea: Expired
+- Startup idea: Expired: Turning food waste into opportunity, helping businesses thrive while saving the planet.
 
 Agile methodologies
 - Figma Prototyping
