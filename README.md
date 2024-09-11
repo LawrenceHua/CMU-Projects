@@ -45,6 +45,21 @@ Summer 2024:
 	- Creating new cryptocurrency in the gaming industry
 	- Skills: Market Research, cryptocurrency creation, crypto market retention recommendations.
 
-Fall 2024
-TBD
+Fall 2024:
+A.T Kearney Capstone (Focus on Utilizing AI to optimize operations)
+
+Machine Learning Production
+- Instagram Clone with Computer vision
+
+Lean Entrepreneurship
+- Startup idea: Expired
+
+Agile methodologies
+- Figma Prototyping
+
+Product Management Essentials
+- TBD
+
+A/B Design, Test, and Analysis
+- TBD
 
