@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730430006427
+current_stage: None
+description: ''
+last_updated_timestamp: 1730430006427
+name: 2081fb2
+run_id: 61d8943a8a624eb0ae77ff8122b632de
+run_link: ''
+source: mlflow-artifacts:/440748251877173838/61d8943a8a624eb0ae77ff8122b632de/artifacts/digits_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/440748251877173838/61d8943a8a624eb0ae77ff8122b632de/artifacts/digits_model
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730429002089
+current_stage: None
+description: ''
+last_updated_timestamp: 1730429002089
+name: d5073d31
+run_id: 87bc383bfb914be08344a98682221139
+run_link: ''
+source: mlflow-artifacts:/440748251877173838/87bc383bfb914be08344a98682221139/artifacts/digits_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/440748251877173838/87bc383bfb914be08344a98682221139/artifacts/digits_model
+user_id: null
+version: 1

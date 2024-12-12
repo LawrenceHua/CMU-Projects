@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108560596751290694/3edef0a178b340209e5176f311cbda85/artifacts
+end_time: 1730428925101
+entry_point_name: ''
+experiment_id: '108560596751290694'
+lifecycle_stage: active
+run_id: 3edef0a178b340209e5176f311cbda85
+run_name: skillful-wolf-692
+run_uuid: 3edef0a178b340209e5176f311cbda85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730428923397
+status: 3
+tags: []
+user_id: lawrencehua

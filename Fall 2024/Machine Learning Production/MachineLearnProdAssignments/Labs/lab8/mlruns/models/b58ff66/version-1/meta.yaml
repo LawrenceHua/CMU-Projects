@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730430070508
+current_stage: None
+description: ''
+last_updated_timestamp: 1730430070508
+name: b58ff66
+run_id: f8deb007a2e641a6a5abe2028d961ff9
+run_link: ''
+source: mlflow-artifacts:/440748251877173838/f8deb007a2e641a6a5abe2028d961ff9/artifacts/digits_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/440748251877173838/f8deb007a2e641a6a5abe2028d961ff9/artifacts/digits_model
+user_id: null
+version: 1

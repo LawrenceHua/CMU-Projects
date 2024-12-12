@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730430559704
+current_stage: None
+description: ''
+last_updated_timestamp: 1730430559704
+name: Random Forest e03ae11a
+run_id: ec7ba8c23c54422fb1df20a30f511041
+run_link: ''
+source: mlflow-artifacts:/440748251877173838/ec7ba8c23c54422fb1df20a30f511041/artifacts/digits_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/440748251877173838/ec7ba8c23c54422fb1df20a30f511041/artifacts/digits_model
+user_id: null
+version: 1

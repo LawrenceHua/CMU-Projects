@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730428924781
+current_stage: None
+description: ''
+last_updated_timestamp: 1730428924781
+name: 32d9691c
+run_id: 3edef0a178b340209e5176f311cbda85
+run_link: ''
+source: mlflow-artifacts:/108560596751290694/3edef0a178b340209e5176f311cbda85/artifacts/digits_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/108560596751290694/3edef0a178b340209e5176f311cbda85/artifacts/digits_model
+user_id: null
+version: 1

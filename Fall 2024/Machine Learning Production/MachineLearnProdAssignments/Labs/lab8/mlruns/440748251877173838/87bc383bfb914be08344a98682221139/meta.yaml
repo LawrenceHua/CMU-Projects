@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/440748251877173838/87bc383bfb914be08344a98682221139/artifacts
+end_time: 1730429002481
+entry_point_name: ''
+experiment_id: '440748251877173838'
+lifecycle_stage: active
+run_id: 87bc383bfb914be08344a98682221139
+run_name: melodic-midge-940
+run_uuid: 87bc383bfb914be08344a98682221139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730429000635
+status: 3
+tags: []
+user_id: lawrencehua

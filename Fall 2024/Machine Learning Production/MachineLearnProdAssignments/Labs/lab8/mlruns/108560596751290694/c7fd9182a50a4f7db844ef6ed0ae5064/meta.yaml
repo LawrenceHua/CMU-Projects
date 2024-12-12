@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108560596751290694/c7fd9182a50a4f7db844ef6ed0ae5064/artifacts
+end_time: 1730428889465
+entry_point_name: ''
+experiment_id: '108560596751290694'
+lifecycle_stage: active
+run_id: c7fd9182a50a4f7db844ef6ed0ae5064
+run_name: overjoyed-toad-742
+run_uuid: c7fd9182a50a4f7db844ef6ed0ae5064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730428887473
+status: 3
+tags: []
+user_id: lawrencehua

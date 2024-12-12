@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/440748251877173838/4f9f975a5d9a4140a3a74aa35b4d166c/artifacts
+end_time: 1730430240091
+entry_point_name: ''
+experiment_id: '440748251877173838'
+lifecycle_stage: active
+run_id: 4f9f975a5d9a4140a3a74aa35b4d166c
+run_name: Linear Regression Model
+run_uuid: 4f9f975a5d9a4140a3a74aa35b4d166c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430238143
+status: 3
+tags: []
+user_id: lawrencehua
