@@ -54,6 +54,10 @@ This repository showcases key knowledge, skills, and projects completed during m
   - *Skills*: Market assessment, financial decision-making.
   - *Applications*: Strategic pricing, resource allocation.
 
+- Technical Writing: Learned how to write clear, concise, and effective technical documentation.
+  - *Skills*: Technical communication, structured writing, editing.
+  - *Applications*: Creating user manuals, API documentation, and internal team resources for technical projects.
+
 ---
 
 ### **Spring 2024**
