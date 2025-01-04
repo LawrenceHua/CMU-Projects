@@ -34,7 +34,7 @@ This repository showcases my academic and professional growth during the Master'
     <tr>
       <td>Fall 2023</td>
       <td>Databases SQL</td>
-      <td>Query optimization, schema design.</td>
+      <td>Query optimization, schema design, ER graphs.</td>
       <td>Designed and queried relational databases for a mock e-commerce system.</td>
       <td>Efficient database management for enterprise applications.</td>
     </tr>
