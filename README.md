@@ -30,6 +30,7 @@ This repository showcases my academic and professional growth during the Master'
     </tr>
   </thead>
   <tbody>
+    <!-- Fall 2023 -->
     <tr>
       <td>Fall 2023</td>
       <td>Databases SQL</td>
@@ -60,11 +61,20 @@ This repository showcases my academic and professional growth during the Master'
     </tr>
     <tr>
       <td>Fall 2023</td>
+      <td>Economics</td>
+      <td>Market assessment, financial decision-making.</td>
+      <td>Analyzed case studies to determine optimal pricing strategies.</td>
+      <td>Strategic pricing and resource allocation.</td>
+    </tr>
+    <tr>
+      <td>Fall 2023</td>
       <td>Technical Writing</td>
       <td>Writing clear and effective documentation.</td>
       <td>Created an API documentation template for a hypothetical web service.</td>
       <td>Producing user manuals, API docs, and internal resources.</td>
     </tr>
+
+    <!-- Spring 2024 -->
     <tr>
       <td>Spring 2024</td>
       <td>Distributed Systems: Android Project</td>
@@ -88,18 +98,27 @@ This repository showcases my academic and professional growth during the Master'
     </tr>
     <tr>
       <td>Spring 2024</td>
-      <td>Digital Transformation: Market Analysis</td>
+      <td>Digital Transformation: Final Presentation</td>
       <td>Competitive analysis, strategy formulation.</td>
-      <td>Created a market entry strategy for a mock SaaS company.</td>
-      <td>Strategic product launches in winner-takes-all markets.</td>
+      <td>Market entry strategy for a winner-takes-all market.</td>
+      <td>Strategic product launches and market entry planning.</td>
     </tr>
     <tr>
       <td>Spring 2024</td>
       <td>New Product Management</td>
       <td>Feature ideation, A/B testing, proposal creation.</td>
       <td>Proposed Microsoft Copilot features; presented on Netflix A/B testing.</td>
-      <td>Optimizing Netflix A/B testing and proposing productivity-enhancing features.</td>
+      <td>Optimizing Netflix A/B testing and productivity software features.</td>
     </tr>
+    <tr>
+      <td>Spring 2024</td>
+      <td>Machine Learning Algorithms</td>
+      <td>Decision trees, linear regression, Q-learning.</td>
+      <td>Built predictive models for user engagement scenarios.</td>
+      <td>AI-powered tools for business operations and consumer insights.</td>
+    </tr>
+
+    <!-- Summer 2024 -->
     <tr>
       <td>Summer 2024</td>
       <td>Cryptocurrency Researcher</td>
@@ -107,6 +126,8 @@ This repository showcases my academic and professional growth during the Master'
       <td>Designed a cryptocurrency tailored for the gaming industry.</td>
       <td>Monetizing gaming platforms and creating blockchain-based ecosystems.</td>
     </tr>
+
+    <!-- Fall 2024 -->
     <tr>
       <td>Fall 2024</td>
       <td>A.T. Kearney Capstone</td>
@@ -123,10 +144,31 @@ This repository showcases my academic and professional growth during the Master'
     </tr>
     <tr>
       <td>Fall 2024</td>
+      <td>MLOps Tools</td>
+      <td>MLFlow, Kubernetes, Docker, Prometheus, Grafana.</td>
+      <td>Built a scalable ML pipeline for a recommendation system.</td>
+      <td>Deployment and monitoring of production ML systems.</td>
+    </tr>
+    <tr>
+      <td>Fall 2024</td>
       <td>Lean Entrepreneurship: Expired</td>
       <td>Market validation, sustainability-focused ideation.</td>
       <td>Created the "Expired" app prototype to address food waste.</td>
       <td>Tackling food waste while improving business profitability.</td>
+    </tr>
+    <tr>
+      <td>Fall 2024</td>
+      <td>Agile Methodologies: Figma Prototyping</td>
+      <td>Rapid prototyping, user-centered design.</td>
+      <td>Designed an interactive prototype for "Expired."</td>
+      <td>Iterative development and user testing for real-world applications.</td>
+    </tr>
+    <tr>
+      <td>Fall 2024</td>
+      <td>A/B Design, Test, and Analysis</td>
+      <td>Experimentation, linear regression, causal analysis.</td>
+      <td>Conducted A/B tests on simulated data to identify performance improvements.</td>
+      <td>Data-driven decision-making to optimize product performance.</td>
     </tr>
   </tbody>
 </table>
