@@ -19,156 +19,99 @@ This repository showcases my academic and professional growth during the Master'
 ## Academic Journey
 
 <div style="overflow-x:auto;">
-<table>
-  <thead>
-    <tr>
-      <th>Semester</th>
-      <th>Course/Project</th>
-      <th>Skills Gained</th>
-      <th>Tangible Projects</th>
-      <th>Real-World Applications</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Fall 2023 -->
-    <tr>
-      <td>Fall 2023</td>
-      <td>Databases SQL</td>
-      <td>Query optimization, schema design, ER graphs.</td>
-      <td>Designed and queried relational databases for a mock e-commerce system.</td>
-      <td>Efficient database management for enterprise applications.</td>
-    </tr>
-    <tr>
-      <td>Fall 2023</td>
-      <td>Professional Speaking Presentations</td>
-      <td>Communication, audience engagement.</td>
-      <td>Delivered presentations on business strategies and technical concepts.</td>
-      <td>Stakeholder alignment and executive reporting.</td>
-    </tr>
-    <tr>
-      <td>Fall 2023</td>
-      <td>Java Labs</td>
-      <td>Object-oriented programming, debugging.</td>
-      <td>Built a mini inventory management system in Java.</td>
-      <td>Backend development for scalable systems.</td>
-    </tr>
-    <tr>
-      <td>Fall 2023</td>
-      <td>Statistics</td>
-      <td>Data analysis, hypothesis testing.</td>
-      <td>Conducted hypothesis testing on user data to identify trends.</td>
-      <td>Predictive modeling and A/B testing.</td>
-    </tr>
-    <tr>
-      <td>Fall 2023</td>
-      <td>Economics</td>
-      <td>Market assessment, financial decision-making.</td>
-      <td>Analyzed case studies to determine optimal pricing strategies.</td>
-      <td>Strategic pricing and resource allocation.</td>
-    </tr>
-    <tr>
-      <td>Fall 2023</td>
-      <td>Technical Writing</td>
-      <td>Writing clear and effective documentation.</td>
-      <td>Created an API documentation template for a hypothetical web service.</td>
-      <td>Producing user manuals, API docs, and internal resources.</td>
-    </tr>
-    <!-- Spring 2024 -->
-    <tr>
-      <td>Spring 2024</td>
-      <td>Distributed Systems: Android Project</td>
-      <td>Mobile UI/UX design, Android SDK.</td>
-      <td>Developed a task-tracking app with notifications.</td>
-      <td>Mobile application development for consumer and enterprise needs.</td>
-    </tr>
-    <tr>
-      <td>Spring 2024</td>
-      <td>Spark Project</td>
-      <td>Distributed computing, big data analytics.</td>
-      <td>Processed large datasets to generate user behavior insights.</td>
-      <td>Scalable data pipelines for analytics and AI.</td>
-    </tr>
-    <tr>
-      <td>Spring 2024</td>
-      <td>Blockchain Project</td>
-      <td>Blockchain design, cryptography.</td>
-      <td>Designed a secure blockchain protocol for contract verification.</td>
-      <td>Decentralized finance and secure data sharing.</td>
-    </tr>
-    <tr>
-      <td>Spring 2024</td>
-      <td>Digital Transformation: Final Presentation</td>
-      <td>Competitive analysis, strategy formulation.</td>
-      <td>Market entry strategy for a winner-takes-all market.</td>
-      <td>Strategic product launches and market entry planning.</td>
-    </tr>
-    <tr>
-      <td>Spring 2024</td>
-      <td>New Product Management</td>
-      <td>Feature ideation, A/B testing, proposal creation.</td>
-      <td>Proposed Microsoft Copilot features; presented on Netflix A/B testing.</td>
-      <td>Optimizing Netflix A/B testing and productivity software features.</td>
-    </tr>
-    <tr>
-      <td>Spring 2024</td>
-      <td>Machine Learning Algorithms</td>
-      <td>Decision trees, linear regression, Q-learning.</td>
-      <td>Built predictive models for user engagement scenarios.</td>
-      <td>AI-powered tools for business operations and consumer insights.</td>
-    </tr>
-    <!-- Summer 2024 -->
-    <tr>
-      <td>Summer 2024</td>
-      <td>Cryptocurrency Researcher</td>
-      <td>Blockchain implementation, tokenomics, market retention strategies.</td>
-      <td>Designed a cryptocurrency tailored for the gaming industry.</td>
-      <td>Monetizing gaming platforms and creating blockchain-based ecosystems.</td>
-    </tr>
-    <!-- Fall 2024 -->
-    <tr>
-      <td>Fall 2024</td>
-      <td>A.T. Kearney Capstone</td>
-      <td>Process improvement, operational analytics.</td>
-      <td>Used AI to optimize operations for a client’s supply chain.</td>
-      <td>Improving supply chain efficiency and reducing costs.</td>
-    </tr>
-    <tr>
-      <td>Fall 2024</td>
-      <td>Instagram Clone with Computer Vision</td>
-      <td>CV algorithms, scalable ML pipelines.</td>
-      <td>Developed a photo-tagging feature using computer vision.</td>
-      <td>Automated content tagging and personalized content delivery.</td>
-    </tr>
-    <tr>
-      <td>Fall 2024</td>
-      <td>MLOps Tools</td>
-      <td>MLFlow, Kubernetes, Docker, Prometheus, Grafana.</td>
-      <td>Built a scalable ML pipeline for a recommendation system.</td>
-      <td>Deployment and monitoring of production ML systems.</td>
-    </tr>
-    <tr>
-      <td>Fall 2024</td>
-      <td>Lean Entrepreneurship: Expired</td>
-      <td>Market validation, sustainability-focused ideation.</td>
-      <td>Created the "Expired" app prototype to address food waste.</td>
-      <td>Tackling food waste while improving business profitability.</td>
-    </tr>
-    <tr>
-      <td>Fall 2024</td>
-      <td>Agile Methodologies: Figma Prototyping</td>
-      <td>Rapid prototyping, user-centered design.</td>
-      <td>Designed an interactive prototype for "Expired."</td>
-      <td>Iterative development and user testing for real-world applications.</td>
-    </tr>
-    <tr>
-      <td>Fall 2024</td>
-      <td>A/B Design, Test, and Analysis</td>
-      <td>Experimentation, linear regression, causal analysis.</td>
-      <td>Conducted A/B tests on simulated data to identify performance improvements.</td>
-      <td>Data-driven decision-making to optimize product performance.</td>
-    </tr>
-  </tbody>
-</table>
+  <table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
+    <thead>
+      <tr style="position: sticky; top: 0; background-color: #f8f8f8; z-index: 1; text-align: left;">
+        <th style="padding: 8px; border: 1px solid #ddd;">Semester</th>
+        <th style="padding: 8px; border: 1px solid #ddd;">Course/Project</th>
+        <th style="padding: 8px; border: 1px solid #ddd;">Skills Gained</th>
+        <th style="padding: 8px; border: 1px solid #ddd;">Tangible Projects</th>
+        <th style="padding: 8px; border: 1px solid #ddd;">Real-World Applications</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Fall 2023 -->
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Stats" target="_blank">Statistics</a></td>
+        <td>Data analysis, hypothesis testing.</td>
+        <td>Conducted hypothesis testing on user data to identify trends.</td>
+        <td>Predictive modeling and A/B testing.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/JAVA" target="_blank">Java Labs</a></td>
+        <td>Object-oriented programming, debugging.</td>
+        <td>Built a mini inventory management system in Java.</td>
+        <td>Backend development for scalable systems.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Economics" target="_blank">Economics</a></td>
+        <td>Market assessment, financial decision-making.</td>
+        <td>Analyzed case studies to determine optimal pricing strategies.</td>
+        <td>Strategic pricing and resource allocation.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Professional%20Speaking" target="_blank">Professional Speaking Presentations</a></td>
+        <td>Communication, audience engagement.</td>
+        <td>Delivered presentations on business strategies and technical concepts.</td>
+        <td>Stakeholder alignment and executive reporting.</td>
+      </tr>
+      <!-- Spring 2024 -->
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Digital%20Transformation" target="_blank">Digital Transformation: Final Presentation</a></td>
+        <td>Competitive analysis, strategy formulation.</td>
+        <td>Market entry strategy for a winner-takes-all market.</td>
+        <td>Strategic product launches and market entry planning.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/ML%20Algorithms" target="_blank">Machine Learning Algorithms</a></td>
+        <td>Decision trees, linear regression, Q-learning.</td>
+        <td>Built predictive models for user engagement scenarios.</td>
+        <td>AI-powered tools for business operations and consumer insights.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Distributed%20Systems" target="_blank">Distributed Systems</a></td>
+        <td>Mobile UI/UX design, Android SDK.</td>
+        <td>Developed a task-tracking app with notifications.</td>
+        <td>Mobile application development for consumer and enterprise needs.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Product%20Management" target="_blank">New Product Management</a></td>
+        <td>Feature ideation, A/B testing, proposal creation.</td>
+        <td>Proposed Microsoft Copilot features; presented on Netflix A/B testing.</td>
+        <td>Optimizing Netflix A/B testing and productivity software features.</td>
+      </tr>
+      <!-- Fall 2024 -->
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Lean%20Entreprenurship" target="_blank">Lean Entrepreneurship: Expired</a></td>
+        <td>Market validation, sustainability-focused ideation.</td>
+        <td>Created the "Expired" app prototype to address food waste.</td>
+        <td>Tackling food waste while improving business profitability.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/AB%20Test" target="_blank">A/B Design, Test, and Analysis</a></td>
+        <td>Experimentation, linear regression, causal analysis.</td>
+        <td>Conducted A/B tests on simulated data to identify performance improvements.</td>
+        <td>Data-driven decision-making to optimize product performance.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Machine%20Learning%20Production" target="_blank">Machine Learning Production</a></td>
+        <td>CV algorithms, scalable ML pipelines.</td>
+        <td>Developed a photo-tagging feature using computer vision.</td>
+        <td>Automated content tagging and personalized content delivery.</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
@@ -178,3 +121,5 @@ This repository showcases my academic and professional growth during the Master'
 - Built a scalable Instagram clone using **computer vision** and **MLOps tools**.  
 - Created a cryptocurrency for the gaming industry, focusing on market retention strategies.  
 - Delivered impactful **market analysis and strategy presentations** for real-world scenarios.  
+
+---
