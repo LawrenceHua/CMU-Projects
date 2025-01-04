@@ -50,16 +50,19 @@ A.T Kearney Capstone (Focus on Utilizing AI to optimize operations)
 
 Machine Learning Production
 - Instagram Clone with Computer vision
+- Various MLOPs and network technologies (MLFlow, Prometheous, graphana, kubernets, docker, etc)
 
 Lean Entrepreneurship
 - Startup idea: Expired: Turning food waste into opportunity, helping businesses thrive while saving the planet.
 
 Agile methodologies
-- Figma Prototyping
+- Figma Prototyping for Expired.
 
 Product Management Essentials
-- TBD
+- Product Workbook on Startup Venture (Expired).
 
 A/B Design, Test, and Analysis
-- TBD
+- Linear regression, casual analysis, and various A/B testing on large datasets.
+
+
 
