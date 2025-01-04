@@ -32,57 +32,64 @@ This repository showcases my academic and professional growth during the Master'
     <tbody>
       <!-- Fall 2023 -->
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Stats" target="_blank">Statistics</a></td>
-        <td>Data analysis, hypothesis testing.</td>
-        <td>Conducted hypothesis testing on user data to identify trends.</td>
-        <td>Predictive modeling and A/B testing.</td>
+        <td>Fall 2023</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Economics" target="_blank">Economic Analysis</a></td>
+        <td>Understanding market dynamics and economic principles.</td>
+        <td>Modeled the impact of supply and demand on pricing strategies.</td>
+        <td>Strategic decision-making for product positioning.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/JAVA" target="_blank">Java Labs</a></td>
-        <td>Object-oriented programming, debugging.</td>
-        <td>Built a mini inventory management system in Java.</td>
-        <td>Backend development for scalable systems.</td>
+        <td>Fall 2023</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Stats" target="_blank">Statistics for IT Managers</a></td>
+        <td>Data analysis, hypothesis testing, statistical modeling.</td>
+        <td>Applied hypothesis testing to analyze customer behavior data.</td>
+        <td>Predictive analytics for business strategy.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Economics" target="_blank">Economics</a></td>
-        <td>Market assessment, financial decision-making.</td>
-        <td>Analyzed case studies to determine optimal pricing strategies.</td>
-        <td>Strategic pricing and resource allocation.</td>
+        <td>Fall 2023</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/JAVA" target="_blank">Object-Oriented Programming in Java</a></td>
+        <td>Java development, debugging, object-oriented design.</td>
+        <td>Developed a mini inventory management system.</td>
+        <td>Programming robust backend systems for scalable applications.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2023</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Professional%20Speaking" target="_blank">Professional Speaking Presentations</a></td>
-        <td>Communication, audience engagement.</td>
-        <td>Delivered presentations on business strategies and technical concepts.</td>
-        <td>Stakeholder alignment and executive reporting.</td>
+        <td>Fall 2023</td>
+        <td>Accounting & Financial Analytics</td>
+        <td>Financial modeling, budgeting, and cost analysis.</td>
+        <td>Analyzed financial statements to assess organizational health.</td>
+        <td>Data-driven financial decision-making.</td>
+      </tr>
+      <tr>
+        <td>Fall 2023</td>
+        <td>Writing for Information Systems Management</td>
+        <td>Effective written communication for technical and business audiences.</td>
+        <td>Prepared API documentation and executive reports.</td>
+        <td>Crafting clear, concise technical documentation.</td>
       </tr>
       <!-- Spring 2024 -->
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Digital%20Transformation" target="_blank">Digital Transformation: Final Presentation</a></td>
-        <td>Competitive analysis, strategy formulation.</td>
-        <td>Market entry strategy for a winner-takes-all market.</td>
-        <td>Strategic product launches and market entry planning.</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/ML%20Algorithms" target="_blank">Machine Learning Algorithms</a></td>
-        <td>Decision trees, linear regression, Q-learning.</td>
-        <td>Built predictive models for user engagement scenarios.</td>
-        <td>AI-powered tools for business operations and consumer insights.</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
+        <td>Spring 2024</td>
         <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Distributed%20Systems" target="_blank">Distributed Systems</a></td>
-        <td>Mobile UI/UX design, Android SDK.</td>
-        <td>Developed a task-tracking app with notifications.</td>
-        <td>Mobile application development for consumer and enterprise needs.</td>
+        <td>Scalable architecture, network protocols.</td>
+        <td>Built a task-tracking app with notifications.</td>
+        <td>Developing scalable systems for enterprise applications.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Spring 2024</td>
+        <td>Spring 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/ML%20Algorithms" target="_blank">Machine Learning</a></td>
+        <td>Supervised learning, regression, decision trees.</td>
+        <td>Developed predictive models for consumer behavior analysis.</td>
+        <td>AI applications for personalized user experiences.</td>
+      </tr>
+      <tr>
+        <td>Spring 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Digital%20Transformation" target="_blank">Digital Transformation</a></td>
+        <td>Strategic analysis, digital innovation, market entry.</td>
+        <td>Developed strategies for SaaS market entry.</td>
+        <td>Driving innovation and scaling businesses in competitive markets.</td>
+      </tr>
+      <tr>
+        <td>Spring 2024</td>
         <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Product%20Management" target="_blank">New Product Management</a></td>
         <td>Feature ideation, A/B testing, proposal creation.</td>
         <td>Proposed Microsoft Copilot features; presented on Netflix A/B testing.</td>
@@ -90,25 +97,25 @@ This repository showcases my academic and professional growth during the Master'
       </tr>
       <!-- Fall 2024 -->
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Lean%20Entreprenurship" target="_blank">Lean Entrepreneurship: Expired</a></td>
-        <td>Market validation, sustainability-focused ideation.</td>
-        <td>Created the "Expired" app prototype to address food waste.</td>
-        <td>Tackling food waste while improving business profitability.</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/AB%20Test" target="_blank">A/B Design, Test, and Analysis</a></td>
-        <td>Experimentation, linear regression, causal analysis.</td>
-        <td>Conducted A/B tests on simulated data to identify performance improvements.</td>
-        <td>Data-driven decision-making to optimize product performance.</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;">Fall 2024</td>
+        <td>Fall 2024</td>
         <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Machine%20Learning%20Production" target="_blank">Machine Learning Production</a></td>
         <td>CV algorithms, scalable ML pipelines.</td>
         <td>Developed a photo-tagging feature using computer vision.</td>
         <td>Automated content tagging and personalized content delivery.</td>
+      </tr>
+      <tr>
+        <td>Fall 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Lean%20Entreprenurship" target="_blank">Lean Entrepreneurship</a></td>
+        <td>Ideation, market validation, customer interviews.</td>
+        <td>Launched the "Expired" app prototype.</td>
+        <td>Turning ideas into actionable, market-ready products.</td>
+      </tr>
+      <tr>
+        <td>Fall 2024</td>
+        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/AB%20Test" target="_blank">A/B Test, Design & Analysis</a></td>
+        <td>Experimentation, linear regression, causal analysis.</td>
+        <td>Conducted A/B tests on simulated data to identify performance improvements.</td>
+        <td>Data-driven decision-making to optimize product performance.</td>
       </tr>
     </tbody>
   </table>
