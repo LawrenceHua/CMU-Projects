@@ -18,115 +18,36 @@ This repository showcases my academic and professional growth during the Master'
 
 ## Academic Journey
 
-<div style="overflow-x:auto;">
-  <table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
-    <thead>
-      <tr style="position: sticky; top: 0; background-color: #f8f8f8; z-index: 1; text-align: left;">
-        <th style="padding: 8px; border: 1px solid #ddd;">Semester</th>
-        <th style="padding: 8px; border: 1px solid #ddd;">Course/Project</th>
-        <th style="padding: 8px; border: 1px solid #ddd;">Skills Gained</th>
-        <th style="padding: 8px; border: 1px solid #ddd;">Tangible Projects</th>
-        <th style="padding: 8px; border: 1px solid #ddd;">Real-World Applications</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Fall 2023 -->
-      <tr>
-        <td>Fall 2023</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Economics" target="_blank">Economic Analysis</a></td>
-        <td>Understanding market dynamics and economic principles.</td>
-        <td>Modeled the impact of supply and demand on pricing strategies.</td>
-        <td>Strategic decision-making for product positioning.</td>
-      </tr>
-      <tr>
-        <td>Fall 2023</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Stats" target="_blank">Statistics for IT Managers</a></td>
-        <td>Data analysis, hypothesis testing, statistical modeling.</td>
-        <td>Applied hypothesis testing to analyze customer behavior data.</td>
-        <td>Predictive analytics for business strategy.</td>
-      </tr>
-      <tr>
-        <td>Fall 2023</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/JAVA" target="_blank">Object-Oriented Programming in Java</a></td>
-        <td>Java development, debugging, object-oriented design.</td>
-        <td>Developed a mini inventory management system.</td>
-        <td>Programming robust backend systems for scalable applications.</td>
-      </tr>
-      <tr>
-        <td>Fall 2023</td>
-        <td>Accounting & Financial Analytics</td>
-        <td>Financial modeling, budgeting, and cost analysis.</td>
-        <td>Analyzed financial statements to assess organizational health.</td>
-        <td>Data-driven financial decision-making.</td>
-      </tr>
-      <tr>
-        <td>Fall 2023</td>
-        <td>Writing for Information Systems Management</td>
-        <td>Effective written communication for technical and business audiences.</td>
-        <td>Prepared API documentation and executive reports.</td>
-        <td>Crafting clear, concise technical documentation.</td>
-      </tr>
-      <!-- Spring 2024 -->
-      <tr>
-        <td>Spring 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Distributed%20Systems" target="_blank">Distributed Systems</a></td>
-        <td>Scalable architecture, network protocols.</td>
-        <td>Built a task-tracking app with notifications.</td>
-        <td>Developing scalable systems for enterprise applications.</td>
-      </tr>
-      <tr>
-        <td>Spring 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/ML%20Algorithms" target="_blank">Machine Learning</a></td>
-        <td>Supervised learning, regression, decision trees.</td>
-        <td>Developed predictive models for consumer behavior analysis.</td>
-        <td>AI applications for personalized user experiences.</td>
-      </tr>
-      <tr>
-        <td>Spring 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Digital%20Transformation" target="_blank">Digital Transformation</a></td>
-        <td>Strategic analysis, digital innovation, market entry.</td>
-        <td>Developed strategies for SaaS market entry.</td>
-        <td>Driving innovation and scaling businesses in competitive markets.</td>
-      </tr>
-      <tr>
-        <td>Spring 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Product%20Management" target="_blank">New Product Management</a></td>
-        <td>Feature ideation, A/B testing, proposal creation.</td>
-        <td>Proposed Microsoft Copilot features; presented on Netflix A/B testing.</td>
-        <td>Optimizing Netflix A/B testing and productivity software features.</td>
-      </tr>
-      <!-- Fall 2024 -->
-      <tr>
-        <td>Fall 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Machine%20Learning%20Production" target="_blank">Machine Learning Production</a></td>
-        <td>CV algorithms, scalable ML pipelines.</td>
-        <td>Developed a photo-tagging feature using computer vision.</td>
-        <td>Automated content tagging and personalized content delivery.</td>
-      </tr>
-      <tr>
-        <td>Fall 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Lean%20Entreprenurship" target="_blank">Lean Entrepreneurship</a></td>
-        <td>Ideation, market validation, customer interviews.</td>
-        <td>Launched the "Expired" app prototype.</td>
-        <td>Turning ideas into actionable, market-ready products.</td>
-      </tr>
-      <tr>
-        <td>Fall 2024</td>
-        <td><a href="https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/AB%20Test" target="_blank">A/B Test, Design & Analysis</a></td>
-        <td>Experimentation, linear regression, causal analysis.</td>
-        <td>Conducted A/B tests on simulated data to identify performance improvements.</td>
-        <td>Data-driven decision-making to optimize product performance.</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| **Semester**   | **Course/Project**                                | **Skills Gained**                                       | **Tangible Projects**                                      | **Real-World Applications**                                 |
+|-----------------|---------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| **Fall 2023**  | Organizational Design & Implementation            | Leadership, team structuring, change management.       | Redesigned organizational workflows for efficiency.       | Enhancing team productivity and managing change.          |
+| **Fall 2023**  | [Statistics for IT Managers](https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Stats) | Data analysis, hypothesis testing, statistical modeling. | Applied hypothesis testing on customer behavior data.     | Predictive analytics for business strategy.               |
+| **Fall 2023**  | [Economic Analysis](https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/Economics)       | Market dynamics and economic principles.               | Modeled supply and demand on pricing strategies.          | Strategic decision-making for product positioning.        |
+| **Fall 2023**  | [Object-Oriented Programming in Java](https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202023/JAVA) | Java development, debugging, object-oriented design.   | Built a mini inventory management system.                 | Programming scalable backend systems.                     |
+| **Fall 2023**  | Database Management                               | Query optimization, schema design.                     | Designed relational databases for e-commerce.             | Efficient database management for enterprise apps.         |
+| **Fall 2023**  | Writing for Information Systems Management        | Technical communication for business audiences.        | Prepared API documentation and executive reports.         | Crafting clear, concise technical documentation.          |
+| **Fall 2023**  | Accounting & Financial Analytics                  | Financial modeling, budgeting, cost analysis.          | Analyzed financial statements to assess organizational health. | Data-driven financial decision-making.                    |
+| **Spring 2024**| [Distributed Systems](https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Distributed%20Systems) | Scalable architecture, network protocols.             | Built a task-tracking app with notifications.             | Developing scalable systems for enterprise needs.         |
+| **Spring 2024**| [Machine Learning](https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/ML%20Algorithms) | Supervised learning, regression, decision trees.       | Developed predictive models for consumer behavior analysis. | AI applications for personalized user experiences.         |
+| **Spring 2024**| [Digital Transformation](https://github.com/LawrenceHua/CMU-Projects/tree/main/Spring%202024/Digital%20Transformation) | Strategic analysis, digital innovation, market entry. | Developed strategies for SaaS market entry.              | Driving innovation in competitive markets.                |
+| **Spring 2024**| Managing Disruptive Technologies                 | Understanding disruptive innovation.                   | Explored case studies on blockchain and AI.              | Guiding businesses through technological change.          |
+| **Spring 2024**| Decision Making Under Uncertainty                 | Risk analysis, probabilistic modeling.                 | Modeled scenarios for supply chain disruptions.          | Improving decisions under uncertain conditions.           |
+| **Summer 2024**| [Cryptocurrency Research Project](https://github.com/LawrenceHua/CMU-Projects/blob/main/Cryptocurrency%20in%20the%20Gaming%20Industry!.pdf) | Blockchain design, tokenomics, market strategies.      | Designed a cryptocurrency for the gaming industry.        | Monetizing gaming platforms with blockchain ecosystems.   |
+| **Fall 2024**  | [Machine Learning Production](https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Machine%20Learning%20Production) | CV algorithms, scalable ML pipelines.                | Developed a photo-tagging feature with computer vision.   | Automated content tagging and personalized delivery.       |
+| **Fall 2024**  | [Lean Entrepreneurship](https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/Lean%20Entreprenurship) | Ideation, market validation, customer interviews.     | Launched the "Expired" app prototype.                    | Turning ideas into actionable, market-ready products.      |
+| **Fall 2024**  | [A/B Test, Design & Analysis](https://github.com/LawrenceHua/CMU-Projects/tree/main/Fall%202024/AB%20Test) | Experimentation, regression, causal analysis.         | Conducted A/B tests to identify performance improvements. | Data-driven decision-making for product performance.       |
+| **Fall 2024**  | [Information Systems Project (Capstone)](https://github.com/LawrenceHua/CMU-Projects/blob/main/MISM%20at%20CMU%20Capstone.pdf) | AI optimization, process improvement.                | Optimized operations for Bath & Body Works (BBW).        | Delivering AI-driven operational improvements.            |
+| **Fall 2024**  | Agile Methods                                    | Scrum methodologies, iterative development.            | Iterated on prototypes for "Expired."                    | Managing projects with agility and user-centered design.  |
+| **Fall 2024**  | Product Management Essentials                    | Core principles of product management.                 | Developed strategies for new product launches.           | Guiding products from ideation to market success.         |
 
 ---
 
-## Key Highlights
-- Designed **Expired**, an innovative app to turn food waste into opportunities for businesses and consumers.  
-- Built a scalable Instagram clone using **computer vision** and **MLOps tools**.  
-- Created a cryptocurrency for the gaming industry, focusing on market retention strategies.  
-- Delivered impactful **market analysis and strategy presentations** for real-world scenarios.  
+## Summary of Accomplishments
 
----
+Through this rigorous 16-month journey, I acquired a diverse and impactful skill set spanning technical, analytical, and leadership domains. My capstone project with **Bath & Body Works (BBW)** and **A.T. Kearney** exemplified my ability to deliver AI-driven operational efficiencies, leveraging machine learning and advanced analytics to optimize sourcing and streamline workflows. These projects provided hands-on experience in working with complex business challenges, producing measurable and sustainable improvements.
+
+The program emphasized hands-on application of theories, from building scalable distributed systems and crafting AI-powered machine learning solutions to analyzing financial models and managing disruptive technologies. I designed and launched innovative projects such as the **"Expired" app** to reduce food waste and a photo-tagging tool using computer vision, showcasing the intersection of sustainability and technology. 
+
+Additionally, I honed product management capabilities by conducting market analyses, proposing product features for tools like Microsoft Copilot, and optimizing experimentation techniques with A/B testing. Each project deepened my understanding of bridging technical solutions with strategic business goals.
+
+This experience has equipped me to lead in dynamic, tech-driven environments where innovation, collaboration, and data-driven insights shape impactful solutions. The program’s integration of technical expertise with practical execution has prepared me to drive meaningful change and deliver measurable results across industries.
