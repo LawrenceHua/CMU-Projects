@@ -73,7 +73,6 @@ This repository showcases my academic and professional growth during the Master'
       <td>Created an API documentation template for a hypothetical web service.</td>
       <td>Producing user manuals, API docs, and internal resources.</td>
     </tr>
-
     <!-- Spring 2024 -->
     <tr>
       <td>Spring 2024</td>
@@ -117,7 +116,6 @@ This repository showcases my academic and professional growth during the Master'
       <td>Built predictive models for user engagement scenarios.</td>
       <td>AI-powered tools for business operations and consumer insights.</td>
     </tr>
-
     <!-- Summer 2024 -->
     <tr>
       <td>Summer 2024</td>
@@ -126,7 +124,6 @@ This repository showcases my academic and professional growth during the Master'
       <td>Designed a cryptocurrency tailored for the gaming industry.</td>
       <td>Monetizing gaming platforms and creating blockchain-based ecosystems.</td>
     </tr>
-
     <!-- Fall 2024 -->
     <tr>
       <td>Fall 2024</td>
